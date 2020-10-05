@@ -21,7 +21,7 @@ d’identification
 Préparation des données :
 - Océrisation des manuels :
 
-- Création de fichiers XML, .txt
+- Création de fichiers .txt
 
 - Calcul du taux d’erreurs (au niveau des caractères ou des mots)
 
