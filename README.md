@@ -1,6 +1,8 @@
 # methodologie_manuels
 
 Documents utiles à l'utilisation d'une méthodologie d'étude (humanités numériques) de manuels.
+Les manuels utilisés pour cette étude sont des manuels de dessin et de peinture publiés à Londres dans la deuxième moitié du XVIIIe siècle. L'axe d'étude se rapport au lien qu'il peut être fait entre les consignes et les images les accompagnant, ce qui permet de caractériser les ouvrages tout en s'intéressant à la fois aux textes mais aussi aux images.
+
 
 
 
